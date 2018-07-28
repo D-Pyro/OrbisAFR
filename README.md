@@ -20,6 +20,6 @@ All file added in `/data/CUSA02624/` is like file in `/mnt/sandbox/CUSA02624_000
 
 - If the file exist in `/data/CUSA02624/` and in `/mnt/sandbox/CUSA02624_000/`, the file in data is used
 - If the file doesn't exist in `/data/CUSA02624/`, OrbisAFR use original file from `/mnt/sandbox/CUSA02624_000/`
-- If the file doesn't exist in `/data/CUSA02624/` and not in `/mnt/sandbox/CUSA02624_000/`, the file in data is used
+- If the file exist in `/data/CUSA02624/` and not in `/mnt/sandbox/CUSA02624_000/`, the file in data is used
 
 OrbisAFR doesn't just remplace, but can also add new file in a game !
