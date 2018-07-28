@@ -4,7 +4,7 @@ Orbis (PS4) Application File Redirector
 OrbisAFR is a payload for edit in-game file easily.
 Add Skyrim mods, Minecraft texture or any other things without re-buid PKG !
 
-The principe is simple, all new (or remplaced) data is stocked in /data
+The principe is simple, all new (or replace) data is stocked in /data
 
 ## Example
 For example, i want to edit the intro of Black Ops 3
@@ -22,4 +22,6 @@ All file added in `/data/CUSA02624/` is like file in `/mnt/sandbox/CUSA02624_000
 - If the file doesn't exist in `/data/CUSA02624/`, OrbisAFR use original file from `/mnt/sandbox/CUSA02624_000/`
 - If the file exist in `/data/CUSA02624/` and not in `/mnt/sandbox/CUSA02624_000/`, the file in data is used
 
-OrbisAFR doesn't just remplace, but can also add new file in a game !
+OrbisAFR doesn't just replace, but can also add new file in a game !
+
+(Sorry for my bad english :P)
