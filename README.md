@@ -1,5 +1,6 @@
 # OrbisAFR
 Orbis (PS4) Application File Redirector
+# NOTE: Use Mira OverlayFS instead (more stable)
 
 OrbisAFR is a payload for edit in-game file easily.
 Add Skyrim mods, Minecraft texture or any other things without re-buid PKG !
